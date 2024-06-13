@@ -55,3 +55,10 @@ To start the Password Manager Tool, run the following command:
 
 ```bash
 ./password_manager.sh
+```
+
+## Example Session
+
+![Example Session](./img/Example.png)
+
+Here is an example session demonstrating the usage of KeyKeeper for adding, retrieving, and managing passwords securely.
