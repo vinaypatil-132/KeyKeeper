@@ -8,7 +8,7 @@ KeyKeeper is a command-line password manager with AES-256 encryption. Safely sto
 - **Display Labels:** View all stored labels without revealing passwords.
 - **Encryption:** Uses AES-256 encryption for securing passwords.
 
-## Prerequisites
+## Pre-requisites
 
 - **OpenSSL:** Ensure you have OpenSSL installed on your system. You can install it using the following commands:
 
