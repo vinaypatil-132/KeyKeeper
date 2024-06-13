@@ -32,29 +32,29 @@ KeyKeeper is a command-line password manager with AES-256 encryption. Safely sto
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/password-manager-tool.git
+    git clone https://github.com/vinaypatil-132/KeyKeeper.git
     ```
 
 2. **Navigate to the Directory:**
 
     ```bash
-    cd password-manager-tool
+    cd KeyKeeper
     ```
 
 3. **Make the Script Executable:**
 
     ```bash
-    chmod +x password_manager.sh
+    chmod +x keykeeper.sh
     ```
 
 ## Usage
 
 ### Running the Script
 
-To start the Password Manager Tool, run the following command:
+To start the key keeper Tool, run the following command:
 
 ```bash
-./password_manager.sh
+./keykeeper.sh
 ```
 
 ## Example Session
